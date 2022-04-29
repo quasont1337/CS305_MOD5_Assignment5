@@ -1,5 +1,5 @@
 # CS305_MOD5_Assignment5
-CS305 Assignment 5
+CS305 Assignment 5 by Kayden Vicenti
 
 **Assignment Details**
 * Collaborator will add some stuff
