@@ -12,6 +12,6 @@
 
 
 
-** Collaborator info
-*Name: Naima Ontiveros
-*Username: no26829
+**Collaborator info**
+* Name: Naima Ontiveros
+* Username: no26829
